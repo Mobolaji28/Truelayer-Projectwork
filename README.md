@@ -1,4 +1,21 @@
 # Truelayer-Projectwork
+## Part one : CX PART
+Hello Rory,<br/>
+Thanks for your email.,<br/>
+I apologise for inconveniences you are facing while testing.,<br/>
+The 409 response or “This request is already running. Please try again” error message you got back is HTTP error conflict that mostly occurs when the request you submitted cannot be completed, mainly because it conflicted with similar rules that has already been established.,<br/>
+There is high possibility that accounts duplicate requests have been submitted at the same time. The first request was acknowledged and the was kept, but the second account request arrived before the first account request is completed. Kindly allow the first request to complete before sending the second. ,<br/>
+In regard to your question, the answer is yes, the functionality is designed to accept only one call made at a time and all endpoints require authorization using an access token.<br/>
+Email us if you are still having problem once you’ve the above.,<br/>
+We’re lucky to have you. Thanks again for being such a fantastic client!,<br/>
+Best Regards ,<br/>
+
+Mobolaji.
+
+
+
+## Coding Part Two
+
 Author: Atanda Mobolaji
 ## Report
 Java programming language helps performing such automated task to facilitate user friendly application such as the one created in this report. Java was used to generate output in this project .
